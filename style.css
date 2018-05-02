@@ -1,0 +1,8 @@
+body {
+    background-image: image(header_prints.jpg);
+}
+
+h1 {
+color: rgb(0, 255, 255);
+font-size: 35px;
+}
